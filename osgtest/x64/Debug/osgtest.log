@@ -1,0 +1,6 @@
+﻿  osgtest.cpp
+e:\document\visual studio 2015\projects\osgtest\osgtest\osgtest.cpp(325): warning C4018: '<': signed/unsigned mismatch
+e:\document\visual studio 2015\projects\osgtest\osgtest\osgtest.cpp(362): warning C4018: '>': signed/unsigned mismatch
+e:\document\visual studio 2015\projects\osgtest\osgtest\osgtest.cpp(374): warning C4018: '>': signed/unsigned mismatch
+  osgtest.vcxproj -> e:\Document\visual studio 2015\Projects\osgtest\x64\Debug\osgtest.exe
+  osgtest.vcxproj -> e:\Document\visual studio 2015\Projects\osgtest\x64\Debug\osgtest.pdb (Full PDB)
